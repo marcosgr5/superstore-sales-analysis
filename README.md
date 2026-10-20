@@ -86,7 +86,7 @@ superstore-sales-analysis/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/magalanro/superstore-sales-analysis.git
+git clone https://github.com/marcosgr5/superstore-sales-analysis.git
 cd superstore-sales-analysis
 ```
 
